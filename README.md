@@ -1,5 +1,5 @@
 # Predicting Yelp Elite Squad Membership
-## CSE 158 Fall 2018 Assignment 2
+## CSE 158: Recommender Systems and Web Mining Fall 2018 Assignment 2
 Angela Zhang, Tim Mak, Les Wang
 
 The goal of this assignment was to identify a predictive task that could be studied on a particular dataset, and perform various models to best complete the task.
